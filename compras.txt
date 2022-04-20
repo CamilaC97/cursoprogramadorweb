@@ -3,3 +3,7 @@ bananas
 naranjas
 chocolate
 dulce de leche
+leche 
+merengue
+harina
+sal
