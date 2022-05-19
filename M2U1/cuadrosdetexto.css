@@ -1,0 +1,87 @@
+/*.cuadro1 {
+    padding: 15px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: black;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: aqua;
+
+}*/
+
+.caja1 {
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    border: none;
+    outline: none;
+    text-align: center;
+    color: black;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    padding: 70px 30px;
+    box-sizing: border-box;
+    font-weight: bold;
+    margin-bottom: 40px;
+    position: static;
+
+}
+
+.alternar1 {
+    background-color: rgb(13, 53, 40);
+    color: rgb(255, 255, 255);
+   
+}
+
+.caja2 {
+    background-color: rgb(153, 65, 24);
+    width: 200px;
+    height: 200px;
+    border: none;
+    outline: none;
+    text-align: center;
+    color: black;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    padding: 70px 30px;
+    box-sizing: border-box;
+    font-weight: bold;
+    margin-bottom: 40px;
+    position: static;
+
+}
+
+.alternar2 {
+    background-color: rgb(70, 15, 7);
+    color: rgb(255, 255, 255);
+   
+}
+
+.caja3 {
+    background-color: rgb(129, 36, 192);
+    width: 200px;
+    height: 200px;
+    border: none;
+    outline: none;
+    text-align: center;
+    color: black;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    padding: 70px 30px;
+    box-sizing: border-box;
+    font-weight: bold;
+    margin-bottom: 40px;
+    position: static;
+
+}
+
+.alternar3 {
+    background-color: rgb(34, 10, 51);
+    color: rgb(255, 255, 255);
+   
+}

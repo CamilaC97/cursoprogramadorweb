@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuadros de Texto - Tarea </title>
+    <link rel="stylesheet" href="cuadrosdetexto.css">
+</head>
+
+<body>
+    <button class="caja1 alternar1">
+        <p>Soy una caja que cambia</p>
+    </button>
+    <button class="caja2 alternar2">
+        <p>Soy una segunda caja que cambia</p>
+    </button>
+    <button class="caja3 alternar3">
+        <p>Soy una tercera caja que cambia</p>
+    </button>
+
+    <script>
+        var alternar1 = document.getElementsByClassName('caja1')[0]
+        var alternar2 = document.getElementsByClassName('caja2')[0]
+        var alternar3 = document.getElementsByClassName('caja3') [0]
+
+        alternar1.addEventListener('click', function (e) {
+            e.target.classList.toggle('alternar1')
+        }
+        )
+        alternar2.addEventListener('click', function (e) { 
+            e.target.classList.toggle('alternar2')
+        } 
+        )
+        alternar3.addEventListener('click', function (e) { 
+            e.target.classList.toggle('alternar3')
+        } 
+        )
+    </script>
+</body>
+
+</html>
