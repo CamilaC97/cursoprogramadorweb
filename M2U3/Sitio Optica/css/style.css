@@ -1,0 +1,176 @@
+.container-fluid {
+    padding-left: 0%;
+    padding-right: 0%;
+    
+}
+
+#car01 h4{
+font-family: 'Kanit';
+color: #0C304D;
+text-align: left;
+font-size: 30px;
+}
+
+#car01 p{
+    font-family: 'Open Sans' cursive;
+    color: #0C304D;
+    text-align: left;
+}
+
+#car02 h4{
+    font-family: 'Kanit';
+    color: white;
+    text-align: left;
+    font-size: 30px;
+}
+
+#car02 p{
+    font-family: 'Open Sans';
+    color: white;
+    text-align: left;
+}
+
+footer {
+    background-color: #aaa;
+}
+
+#pagebreak {
+    padding-top: 0;
+    background-color: #8BC1BC;
+}
+
+#carousel {
+    padding-bottom: 0;
+}
+#secciones2 {
+    padding-top: 0;
+    
+}
+
+#secciones{
+    padding-bottom: 0;
+}
+
+.destacados {
+    background-color: #ddf0ee;
+}
+
+.destacados h2{
+    font-family: 'Kanit';
+    color: #0C304D;
+    text-align: center;
+}
+
+.destacados p {
+    font-family: 'Open Sans';
+    color: #12827C;
+    text-align: center;
+}
+
+.card1 p{
+    font-family: 'Open Sans';
+    color: #12827C;
+    font-size: small;
+}
+
+.card1 h4 {
+    font-family: 'Kanit';
+    color: #0C304D;
+}
+
+.card2 p{
+    font-family: 'Open Sans';
+    color: #12827C;
+    font-size: small;
+}
+
+.card2 h4 {
+    font-family: 'Kanit';
+    color: #0C304D;
+}
+
+.card3 p{
+    font-family: 'Open Sans';
+    color: #12827C;
+    font-size: small;
+}
+
+.card3 h4 {
+    font-family: 'Kanit';
+    color: #0C304D;
+}
+
+.card4 p{
+    font-family: 'Open Sans';
+    color: #12827C;
+    font-size: small;
+}
+
+.card4 h4 {
+    font-family: 'Kanit';
+    color: #0C304D;
+}
+
+.armrec img{
+    filter: grayscale();
+    transition: all .2s ease-in-out;
+    margin-right: 1rem;
+    opacity: 0.7;
+}
+
+.armrec:hover img{
+    filter: none;
+    margin-right: 1.4rem;
+    opacity: 1;
+}
+
+.antsol img{
+    filter: grayscale();
+    transition: all .2s ease-in-out;
+    margin-right: 1rem;
+    opacity: 0.7;
+}
+
+.antsol:hover img{
+    filter: none;
+    margin-right: 1.4rem;
+    opacity: 1;
+}
+
+.imggran img{
+    filter: grayscale();
+    transition: all .2s ease-in-out;
+    margin-right: 1rem;
+    opacity: 0.7;
+}
+
+.imggran:hover img{
+    filter: none;
+    margin-right: 1.4rem;
+    opacity: 1;
+}
+
+/*.zoom1 img {
+    filter: none;
+    transition: transform .2s
+
+}
+
+.zoom1:hover img{
+    transform: scale(1.1);
+}*/
+
+
+h1,h2{
+    font-family: 'Kanit';
+    color: #0C304D;
+}
+
+#historia p{
+    font-family: 'Open Sans';
+    color: #12827C;
+}
+
+#historia h2{
+    color: #0C304D;
+}
