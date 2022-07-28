@@ -174,3 +174,9 @@ h1,h2{
 #historia h2{
     color: #0C304D;
 }
+
+#lowbutton {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
